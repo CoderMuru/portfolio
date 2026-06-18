@@ -146,7 +146,7 @@ const currentProjects = [
       "Integrating Travel third-party services for rating and quote creation.",
       "Using Cursor AI Coding Tool and ChatGPT to accelerate coding, improve consistency, generate reusable components and speed up delivery."
     ],
-    skills: ["Cursor AI Coding Tool", "ChatGPT", "MERN Stack", "React.js", "Node.js", "Express.js", "MongoDB", "Tailwind CSS", "Vite", "JWT", "REST APIs", "Dynamic Form Builder", "Dynamic Listing", "Dynamic Page Builder", "Masters", "Dashboard", "Premia Core Integration", "Payment Gateway", "SMS Gateway", "OCR", "Travel Rating API", "GitHub", "Visual Studio Code"]
+    skills: ["Cursor AI Coding Tool", "ChatGPT", "MERN Stack", "React.js", "Node.js", "Express.js", "MongoDB", "AWS", "Docker", "GitHub Action", "Tailwind CSS", "Vite", "JWT", "REST APIs", "Dynamic Form Builder", "Dynamic Listing", "Dynamic Page Builder", "Masters", "Dashboard", "Premia Core Integration", "Payment Gateway", "SMS Gateway", "OCR", "Travel Rating API", "GitHub", "Visual Studio Code"]
   },
   {
     no: "Current 2",
@@ -190,7 +190,7 @@ const projects = [
       "Developed admin builders for application configuration, project setup, products, pages, fields, listings, views, communications, masters and dashboard modules.",
       "Created the foundation later used to transform the Lion Insurance Ethiopia portal into dynamic module-based delivery."
     ],
-    skills: ["ChatGPT", "AI-Assisted Development", "MERN Stack", "React.js", "Node.js", "Express.js", "MongoDB", "Tailwind CSS", "Vite", "i18n", "ExcelJS", "Axios", "JWT", "REST APIs", "Dynamic Form Builder", "Dynamic Listing", "Dynamic Page Builder", "Low-Code Architecture"]
+    skills: ["ChatGPT", "AI-Assisted Development", "MERN Stack", "React.js", "Node.js", "Express.js", "MongoDB", "Docker", "Tailwind CSS", "Vite", "i18n", "ExcelJS", "Axios", "JWT", "REST APIs", "Dynamic Form Builder", "Dynamic Listing", "Dynamic Page Builder", "Low-Code Architecture"]
   },
 
   {
